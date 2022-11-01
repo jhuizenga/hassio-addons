@@ -13,7 +13,7 @@
   "apparmor": "false",
   "devices": ["/dev/mem:/dev/mem:rwm"],
   "options": {
-    "gpio_platform": "raspberrypi3",
+    "gpio_platform": "raspberrypi4",
     "hardware": {
       "sender": 0,
       "receiver": 1
